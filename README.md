@@ -6,3 +6,5 @@ Este repositório é referente ao curso da [DevMasterTeam](http://www.devmastert
 - Outras pastas, nomeadas de acordo com cada seção, se encontram os slides em formato PDF.
 
 **DevMasterTeam**
+
+Curso praticamente finalizado
